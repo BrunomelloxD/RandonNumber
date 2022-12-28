@@ -30,6 +30,5 @@ Instruções de Instalação
 As seguintes ferramentas foram usadas na construção do projeto:
 
 - [React Native](https://reactnative.dev/)
-- [react-native-responsive-screen](https://www.npmjs.com/package/react-native-responsive-screen)
 
 Feito com :heart:	 por [Bruno Mello](https://www.linkedin.com/in/bruno-mello-14058819b/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BIBMlTz6fSoaFIdcA5Dyn0Q%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_feed-nav.settings_view_profile) :eyes:	
